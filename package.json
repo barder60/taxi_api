@@ -1,0 +1,27 @@
+{
+  "name": "taxi_api_roulette",
+  "version": "1.0.0",
+  "description": "This is the API of the EatRoulette project",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barder60/taxi_api.git"
+  },
+  "author": "barder60",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barder60/taxi_api/issues"
+  },
+  "homepage": "https://github.com/barder60/taxi_api#readme"
+}
